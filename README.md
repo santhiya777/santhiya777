@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Santhiya P</h1>
 <h3 align="center">A passionate AI/Ml Engineer from India</h3>
-<h3 align="left">🐍 GitHub Contributions</h3>
+<h2 align="center">🐍 GitHub Contributions · 2026</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" />
+  <img
+    src="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake 2026"
+    width="100%"
+  />
 </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhiya777" alt="santhiya777" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence Java Full Stack Development Data Structures & Algorithms (Interview-focused)**
