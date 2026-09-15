@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santhiya P</h1>
 <h3 align="center">A passionate AI/Ml Engineer from India</h3>
-<h2 align="center">🐍 GitHub Contributions · 2026</h2>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake 2026"
-    width="100%"
-  />
-</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhiya777" alt="santhiya777" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence Java Full Stack Development Data Structures & Algorithms (Interview-focused)**
@@ -24,7 +16,25 @@
 - 📫 How to reach me **santhiyapponnusamy@gmail.com**
 
 - ⚡ Fun fact **I enjoy learning by building real projects more than just watching tutorials**
+<h2 align="center">🐍 GitHub Contributions · 2026</h2>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/santhiya777/santhiya777/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/santhiyakaveri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="santhiyakaveri" height="30" width="40" /></a>
