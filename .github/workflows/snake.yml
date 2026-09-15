@@ -21,11 +21,11 @@ jobs:
         with:
           github_user_name: santhiya777
           outputs: |
-            dist/github-contribution-grid-snake.gif
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%2300A67E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2361DAFB
 
-      - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
